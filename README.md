@@ -241,7 +241,7 @@ Security was a **first-class design concern**, not an afterthought.
 | TLS 1.2+ enforced | `minimumTlsVersion: TLS1_2` | Encryption in transit |
 | Soft delete + purge protection | Key Vault 7-day retention | Recoverable from accidental deletion |
 | PII scrubbing | Before text reaches LLM | Personal data never sent to external model |
-| Data residency | South Africa North region | POPIA §72 — personal data stays in SA |
+| Data residency | South Africa North region | Section 72 of POPIA — personal data stays in SA |
 | Audit trail | Every document logged with timestamp | Compliance evidence on demand |
 
 ### POPIA Compliance
