@@ -2,14 +2,6 @@
 
 > An enterprise-grade document processing system built on Microsoft Azure — automating the extraction, classification, risk assessment, and POPIA-compliant handling of sensitive financial documents using AI.
 
-<br>
-
-![CI](https://github.com/MbongeniCloud/doc-intelligence-platform/actions/workflows/ci.yml/badge.svg)
-![Tests](https://img.shields.io/badge/tests-18%20passing-brightgreen)
-![Python](https://img.shields.io/badge/python-3.11-blue.svg)
-![Azure](https://img.shields.io/badge/cloud-Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white)
-![Region](https://img.shields.io/badge/region-South%20Africa%20North-green)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ---
 
