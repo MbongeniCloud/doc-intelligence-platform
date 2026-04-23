@@ -500,7 +500,7 @@ Integration tests available separately (require live Azure resources).
 
 ##  What I Learned
 
-This project went well beyond "follow a tutorial." Real challenges that came up:
+Real challenges that came up:
 
 **Cloud architecture:** Designing systems where components are loosely coupled, event-driven, and independently scalable. Understanding why managed identity beats connection strings, and why IaC matters when you need to tear down and rebuild.
 
