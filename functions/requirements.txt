@@ -1,0 +1,7 @@
+azure-functions
+azure-storage-blob
+azure-ai-documentintelligence
+azure-identity
+azure-keyvault-secrets
+openai
+python-dotenv
